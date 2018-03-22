@@ -1,1 +1,2 @@
-#[oracle安装](oracle.md)
+[oracle安装](oracle.md)
+=
