@@ -31,11 +31,10 @@
 #26![26](dig/26.png)
 #27![27](dig/27.png)
 #28![28](dig/28.png)
-#30![30](dig/30.png)
+#29<br>![29](dig/29.png)
+#30<br>![30](dig/30.png)
 #31![31](dig/31.png)
-#32 
-默认em是打开的https//local host：1158/em/  可以使用system+密码（自己设的）进行登录。![32](dig/32.png)
-====
+#32![32](dig/32.png)
 #33![33](dig/33.png)
 #34![34](dig/34.png)
 #35![35](dig/35.png)
@@ -43,3 +42,6 @@
 #37![37](dig/37.png)
 #38![38](dig/38.png)
 #39![39](dig/39.png)
+
+登陆oracle：默认em是打开的https//local host：1158/em/  可以使用system+密码（自己设的）进行登录。
+==
