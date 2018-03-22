@@ -1,1 +1,2 @@
-#[oracle安装](oracle.com)
+[oracle安装](oracle.com)
+=
