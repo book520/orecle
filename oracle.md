@@ -1,7 +1,7 @@
 
 #oracle
 ----
-网站：www.oracle.com/cn/index.html
+网站：www.oracle.com/cn/index.htm
 ====
 #1![1](dig/1.png)
 #2![2](dig/2.png)
